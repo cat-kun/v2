@@ -1,0 +1,27 @@
+{
+  "name": "@vcli/v2",
+  "version": "1.0.1",
+  "description": "基于 vue-cli 修改的脚手架工具",
+  "engines": {
+    "node": "6.x"
+  },
+  "bugs": {
+    "url": "https://github.com/dengxiaozhen/vue-cli-template/issues"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.17.1",
+    "download-git-repo": "^1.1.0",
+    "ora": "^3.0.0"
+  },
+  "bin": {
+    "v2": "bin/index.js"
+  },
+  "keywords": [
+    "v2",
+    "vue",
+    "cli"
+  ],
+  "repository": "https://github.com/dengxiaozhen/vue-cli-template",
+  "license": "MIT"
+}
